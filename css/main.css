@@ -1,0 +1,30 @@
+.app-header {
+  border-bottom: 1px solid #d2dce1;
+}
+.container .nav-item .nav-link {
+  width: 100%;
+  color: #4a4a4a;
+}
+.app-body li a {
+  margin: 0px 30px;
+  color: #4a4a4a;
+}
+.app-body {
+  border-bottom: 1px solid#d2dce1;
+}
+.container li a {
+  margin-left: 50px;
+}
+.app-header a {
+  margin-left: 460px;
+}
+.sign-up-button {
+  margin-left: 140px;
+}
+.app-body li a:hover {
+  background-color: #2e3c56;
+  color: white;
+}
+.container .nav-item .nav-link:hover {
+  color: #3498db;
+}
